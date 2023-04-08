@@ -5,7 +5,7 @@
 
 - 🏫 I'm currently studying computer science at **University of Nueva Caceres**
 
-- 🧑🏻‍💻 I’m currently learning **Java & WEb Development"**
+- 🧑🏻‍💻 I’m currently learning **Java & Web Development"**
 
 - 👯 I’m looking to collaborate on **Software development**
 
