@@ -26,7 +26,7 @@
 
 
  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejosephmartin&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="sejosephmartin" /></p>
+
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejosephmartin&theme=radical" alt="sejosephmartin" /></p>
 
