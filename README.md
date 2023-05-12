@@ -17,7 +17,7 @@
 
 I'm excited to meet great people, learn new things, and explore different technologies for learning and growth. 🚀💫
 
-Let's Connect and Build the Future of Web! ✨
+Let's Connect!! ✨
    </p>
  
 
