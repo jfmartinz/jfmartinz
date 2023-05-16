@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Joseph Martin 👋</h1>
-
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sejosephmartin&label=Profile%20views&color=0e75b6&style=flat" alt="sejosephmartin" /> </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/joseph-martin-348482270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/SEJosephMartin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
   <a href="https://codepen.io/sejosephmartin"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" alt="Codepen"></a>
   <a href="https://www.codewars.com/users/sejosephmartin"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars"</a>
 </p>
- 
------
    
 <div align="center">
  <h2>💫 About Me:</h2>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sejosephmartin&label=Profile%20views&color=0e75b6&style=flat" alt="sejosephmartin" /> </p>
+
   <p align="center">
  Hello! 👋 I'm a first-year computer science student who is passionate and fascinated about web development. My goal is to become a skilled front-end developer, and I've taken proactive steps to achieve it. I created a personal 8-month roadmap focused on web development. To keep myself guided throughout the journey, I have committed to the #365DaysOfCode challenge and have been sharing my progress on Twitter. Additionally, I have been actively participating in community discussions and events, collaborating with others in the field, and seeking out opportunities for growth and learning.
 
