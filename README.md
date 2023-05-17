@@ -2,8 +2,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/joseph-martin-348482270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/SEJosephMartin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
-  <a href="https://codepen.io/sejosephmartin"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" alt="Codepen"></a>
-  <a href="https://www.codewars.com/users/sejosephmartin"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="CodeWars"</a>
 </p>
    
 <div align="center">
