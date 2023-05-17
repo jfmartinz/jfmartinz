@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joseph Martin 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/JFMartinz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/JFMartinz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/jfmartinz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/jfmartinz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
 </p>
    
 <div align="center">
