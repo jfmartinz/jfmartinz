@@ -20,7 +20,7 @@
 <div align="left">
     <h2>About me 😎</h2>
   <p align="left">
- Hello! 👋 I'm a first-year computer science student who is passionate and fascinated about web development. My goal is to become a skilled front-end developer, and I've taken proactive steps to achieve it. I created a personal 8-month roadmap focused on web development. To keep myself guided throughout the journey, I have committed to the #365DaysOfCode challenge and have been sharing my progress on Twitter. Additionally, I have been actively participating in community discussions and events, collaborating with others in the field, and seeking out opportunities for growth and learning.
+ Hello! 👋 I'm a first-year computer science student who is passionate and fascinated about web development. My goal is to become a Full Stack Developer 💻, and I've taken proactive steps to achieve it. I created a personal roadmap focused on web development. To keep myself guided throughout the journey, I have committed to the #365DaysOfCode challenge and have been sharing my progress on Twitter. Additionally, I have been actively participating in community discussions and events, collaborating with others in the field, and seeking out opportunities for growth and learning.
 
 I'm excited to meet great people, learn new things, and explore different technologies for learning and growth. 🚀💫
 
