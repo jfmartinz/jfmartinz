@@ -44,15 +44,6 @@ I'm excited to meet great people, learn new things, and explore different techno
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressJs"/>
   </p>
   
----
-  
-<details>
-  <summary><strong>My GitHub Stats</strong> 📊</summary><br>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=jfmartinz&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=radical&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  </p>
-</details>
 
   </div>
 
