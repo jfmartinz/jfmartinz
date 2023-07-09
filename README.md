@@ -66,8 +66,57 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 </div>
 
  
-<!--START_SECTION:waka-->
+<!--START_SECTION:jfmartinz-->
 
 
 
-<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--END_SECTION:jfmartinz-->
