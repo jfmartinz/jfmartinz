@@ -4,13 +4,13 @@
     
 <div>
     <a href="https://www.linkedin.com/in/jfmartinz/">
-    <img src="https://img.shields.io/badge/let's%20connect-LinkedIn-5b82c7?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/let's%20connect-LinkedIn-4d4f73?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/jfmartinz">
-    <img src="https://img.shields.io/badge/follow%20Me-Twitter-5b82c7?style=for-the-badge&amp;logo=twitter&amp;logoColor=1d9bf0" alt="Twitter">
+    <img src="https://img.shields.io/badge/follow%20Me-Twitter-4d4f73?style=for-the-badge&amp;logo=twitter&amp;logoColor=1d9bf0" alt="Twitter">
   </a>
   <a href="mailto:se.josephmartin@gmail.com">
-    <img src="https://img.shields.io/badge/let's%20talk-gmail-5b82c7?style=for-the-badge&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail">
+    <img src="https://img.shields.io/badge/let's%20talk-gmail-4d4f73?style=for-the-badge&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail">
   </a>
 </div><br>
 
