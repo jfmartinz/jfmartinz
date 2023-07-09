@@ -39,7 +39,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 ---
 
-<div align="left">
+<div align="center">
 
 
 
@@ -63,11 +63,13 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
     <img src="https://img.shields.io/badge/Node.js-4d4f73?style=for-the-badge&logo=nodedotjs&logoColor=76ac65">
   </a>
 
-</div>
+</div><br>
 
- 
+<div align="center">
+  
+## Wakatime Stats ✨ 
+   
 <!--START_SECTION:jfmartinz-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2042%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -100,6 +102,9 @@ HTML                     31 mins             ███░░░░░░░░�
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2042%20mins-blue)
 
 
 <!--END_SECTION:jfmartinz-->
+
+
