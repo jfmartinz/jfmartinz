@@ -33,7 +33,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 *I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
 
-💫 You can find all my socials ➔ [**here**](https://linkfree.io/jfmartinz) 
+💫 You can find all my socials [**here**](https://linkfree.io/jfmartinz) 
 
 </div>
 
