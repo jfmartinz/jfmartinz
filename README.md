@@ -45,11 +45,10 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 ## GitHub Stats ⚡
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=false) |
 | --- | --- |
-</div>
 
-<div align="left">
+<div align="center">
   
-## Tech Stack 💻
+### Tech Stack 💻
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-4d4f73?style=for-the-badge&logo=mongodb&logoColor=76ac65">
   </a>
@@ -63,6 +62,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
     <img src="https://img.shields.io/badge/Node.js-4d4f73?style=for-the-badge&logo=nodedotjs&logoColor=76ac65">
   </a>
 
+</div>
 </div><br>
 
 <div align="left">
