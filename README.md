@@ -1,6 +1,7 @@
 
 <header align="left">
-  <h1>Welcome to my GitHub profile! 👋</h1>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=32&duration=4000&pause=800&color=FDFDFD&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg)
     
 <div>
     <a href="https://www.linkedin.com/in/jfmartinz/">
