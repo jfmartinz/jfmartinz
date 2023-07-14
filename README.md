@@ -36,7 +36,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 **Let's Connect!** 🙌
 
-> 🌐 You can find all my socials [**here**](https://linkfree.io/jfmartinz) 
+> 🌐 Connect with  [**Me**](https://linkfree.io/jfmartinz) 
 </div>
 
 ---
