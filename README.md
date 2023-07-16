@@ -43,13 +43,9 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 <div align="center">
   
-## GitHub Stats ⚡
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true) |
-| --- | --- |
-
 <div align="center">
   
-### Tech Stack 💻
+## Tech Stack 💻
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-4d4f73?style=for-the-badge&logo=mongodb&logoColor=76ac65">
   </a>
@@ -64,11 +60,19 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
   </a>
 
 </div>
-</div><br>
 
-<div align="left">
+## GitHub Stats ⚡
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true) |
+| --- | --- |
+
+</div>
+
+
+<br>
+<details>
   
-## Wakatime Stats ✨ 
+ <summary>  WakaTime Stats ⌛ </summary><br>
    
 <!--START_SECTION:jfmartinz-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2043%20mins-blue)
@@ -106,5 +110,5 @@ HTML                     0 secs              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:jfmartinz-->
-
+</details>
 
