@@ -43,9 +43,17 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 <div align="center">
   
-<div align="center">
+
   
-## Tech Stack 💻
+
+
+
+## GitHub Stats ⚡
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true) |
+| --- | --- |
+
+### Tech Stack 💻
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-4d4f73?style=for-the-badge&logo=mongodb&logoColor=76ac65">
   </a>
@@ -58,14 +66,6 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
   <a href="https://nodejs.org/en">    
     <img src="https://img.shields.io/badge/Node.js-4d4f73?style=for-the-badge&logo=nodedotjs&logoColor=76ac65">
   </a>
-
-</div>
-
-## GitHub Stats ⚡
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true) |
-| --- | --- |
-
 </div>
 
 
