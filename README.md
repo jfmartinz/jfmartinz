@@ -20,7 +20,7 @@
 - ✍🏼 I am a Self-Taught Developer
 - 🎓 Currently, a second-year student taking Computer Science 
 - 🌟 Open-source enthusiast   
-- 💻 Currently Learning HTML, CSS, & JavaScript
+- 💻 Currently Learning HTML, CSS, JavaScript, Web3, and Linux
 </header>
 
 
