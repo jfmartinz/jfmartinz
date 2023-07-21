@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=32&duration=4000&pause=800&color=FDFDFD&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg)
     
-<div>
+<section>
     <a href="https://www.linkedin.com/in/jfmartinz/">
     <img src="https://img.shields.io/badge/let's%20connect-LinkedIn-4d4f73?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn">
   </a>
@@ -13,7 +13,7 @@
   <a href="mailto:se.josephmartin@gmail.com">
     <img src="https://img.shields.io/badge/let's%20talk-gmail-4d4f73?style=for-the-badge&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail">
   </a>
-</div><br>
+</section><br>
 
 
 - 🧑🏽‍💻 I am an Aspiring Full Stack Developer
@@ -26,7 +26,7 @@
 
   
 
-<div align="left">
+<section align="left">
 
 ## About me 😎
 
@@ -37,13 +37,13 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 **Let's Connect!** 🙌
 
 > 🌐 Connect with  [**Me**](https://linkfree.io/jfmartinz) 
-</div>
+</section>
 
 ---
 
 
 
-<div align="center">
+<section align="center">
 
 <!-- 
 #### 💻 Technology stack 
@@ -75,24 +75,22 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 </table>
 -->
 
-
-
 ### GitHub Stats ⚡
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true) |
 | --- | --- |
 
+<!-- Visit https://committers.top/ to learn more about this -->
 <a href="https://committers.top/philippines#jfmartinz">
-          <img
-            src="https://img.shields.io/static/v1?label=Most active GitHub users in PH&labelColor=4d4f73&message=➦&color=38bdae&style=for-the-badge&logo=github&logoColor=fffff"
-          />
-    </a>
+          <img src="https://img.shields.io/static/v1?label=Most active GitHub users in PH&labelColor=4d4f73&message=➦&color=38bdae&style=for-the-badge&logo=github&logoColor=fffff"/>
+</a>
         
-
-
-</div>
+</section>
 
 <br>
+
+<!-- To generate your own WakaTimem in your README profile.
+Visit this repo: https://github.com/anmol098/waka-readme-stats -->
 <details>
   
  <summary>  WakaTime Stats ⌛ </summary><br>
