@@ -16,11 +16,12 @@
 </section><br>
 
 
-- 🧑🏽‍💻 I am an Aspiring Full Stack Developer
-- ✍🏼 I am a Self-Taught Developer
+- 🧑🏻‍💻 I am an Aspiring Full Stack Developer
+- 📚 I am a Self-Taught Developer
 - 🎓 Currently, a second-year student taking Computer Science 
-- 🌟 Open-source enthusiast   
-- 💻 Currently Learning HTML, CSS, JavaScript, Web3, and Linux
+- 🌐 Open-source enthusiast   
+- 💻 Currently Learning HTML, CSS, & JavaScript
+- 🌏 Exploring Web3 and Linux
 </header>
 
 
