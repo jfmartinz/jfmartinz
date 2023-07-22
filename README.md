@@ -44,7 +44,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 <section align="center">
   
-  ###### Technologies && GitHub Stats 🔧📊
+  ###### Technologies && GitHub Stats 
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,react,html,css,tailwind,javascript,git,githubactions,md,linux" />
