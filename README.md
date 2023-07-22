@@ -48,7 +48,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,react,html,css,tailwind,javascript,git,githubactions,md,linux" />
-  </a><br>
+  </a><br><br>
 
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true) |
