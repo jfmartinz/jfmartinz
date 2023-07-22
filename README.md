@@ -42,6 +42,14 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 ---
 
+<section align="center">
+  
+  ###### Technologies I used  
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,react,html,css,tailwind,javascript,git,githubactions,md,linux" />
+  </a>
+</section>
 
 
 <section align="center">
@@ -76,7 +84,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 </table>
 -->
 
-#### GitHub Stats  🔎
+###### GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true) |
 | --- | --- | 
