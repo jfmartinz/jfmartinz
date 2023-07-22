@@ -44,47 +44,12 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 <section align="center">
   
-  ###### Technologies I used  
+  ###### Technologies && GitHub Stats 🔧📊
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,react,html,css,tailwind,javascript,git,githubactions,md,linux" />
-  </a>
-</section>
+  </a><br>
 
-
-<section align="center">
-
-<!-- 
-#### 💻 Technology stack 
-  <table>
-<tr>
-<th> 
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-4d4f73?style=for-the-badge&logo=mongodb&logoColor=76ac65">
-  </a>
-</th>
-<th>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Express.js-4d4f73?style=for-the-badge&logo=express&logoColor=76ac65">
-  </a>
-</th>
-<th>
-  <a href="https://react.dev/">  
-    <img src="https://img.shields.io/badge/React-4d4f73?style=for-the-badge&logo=react&logoColor=ffff">
-  </a>
-</th>
-<th> 
-  <a href="https://nodejs.org/en">    
-    <img src="https://img.shields.io/badge/Node.js-4d4f73?style=for-the-badge&logo=nodedotjs&logoColor=76ac65">
-  </a>
-</th>
-
-
-</tr>
-</table>
--->
-
-###### GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true) |
 | --- | --- | 
@@ -96,8 +61,6 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
           <img src="https://img.shields.io/static/v1?label=Most active GitHub users in PH&labelColor=4d4f73&message=➦&color=38bdae&style=for-the-badge&logo=github&logoColor=fffff"/>
 </a>
 
-
-        
 </section>
 
 <br>
