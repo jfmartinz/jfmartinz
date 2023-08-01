@@ -31,7 +31,7 @@
 
 ## About me 😎
 
-Hello! 👋 I'm currently a Second-year Computer Science student with a deep passion for web development. My ultimate goal is to become a skilled full stack developer, specializing in the MERN stack. To keep myself guided, I have created a personal roadmap that serves as a guide for my journey, which you can find [**here**](https://github.com/jfmartinz/mern-stack). In addition, I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
+Hello! 👋 I'm currently a Second-year Computer Science student with a deep passion for web development. My ultimate goal is to become a skilled full stack developer, specializing in the MERN stack. To keep myself guided, I have created a personal roadmap that serves as a guide for my journey. In addition, I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
 
 *I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
 
