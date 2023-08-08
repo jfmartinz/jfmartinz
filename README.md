@@ -21,7 +21,6 @@
 - 🎓 Currently, a Second-year student taking Computer Science 
 - 🌐 Open-source enthusiast   
 - 💻 Currently Learning HTML, CSS, & JavaScript
-- 🌏 Exploring Web3 and Linux
 </header>
 
 
