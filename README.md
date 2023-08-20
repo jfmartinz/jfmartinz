@@ -58,13 +58,10 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 | <img src="https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> |
 | --- | --- | 
 
-
-
-
 <!-- Visit https://committers.top/ to learn more about this -->
 
 <a href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
-          <img src="https://img.shields.io/static/v1?label=Most active GitHub users in PH&labelColor=4d4f73&message=➦&color=38bdae&style=for-the-badge&logo=github&logoColor=fffff"/>
+          <img src="https://img.shields.io/static/v1?label=Most active GitHub users in PH&labelColor=4d4f73&message=➦&color=38bdae&style=lat-Square&logo=github&logoColor=fffff"/>
 </a>
 
 </section>
