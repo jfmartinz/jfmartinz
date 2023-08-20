@@ -5,13 +5,16 @@
     
 <section>
     <a href="https://www.linkedin.com/in/jfmartinz/">
-    <img src="https://img.shields.io/badge/jfmartinz-LinkedIn-4d4f73?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn" title="Let's Connect!">
+    <img src="https://img.shields.io/badge/Let's Connect |-LinkedIn-4d4f73?style=plat&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn" title="Let's Connect!">
   </a>
   <a href="https://twitter.com/jfmartinz">
-    <img src="https://img.shields.io/badge/jfmartinz-Twitter-4d4f73?style=for-the-badge&amp;logo=twitter&amp;logoColor=1d9bf0" alt="Twitter" title="Follow my Coding Journey">
+    <img src="https://img.shields.io/badge/Follow Me |-Twitter-4d4f73?style=plat&amp;logo=twitter&amp;logoColor=1d9bf0" alt="Twitter" title="Follow my Coding Journey">
+  </a>
+  <a href="https://discord.gg/XexhRvKd">
+    <img src="https://img.shields.io/badge/Hangout with Us |-Discord-4d4f73?style=plat&amp;logo=discord&amp;logoColor=1d9bf0" alt="Discord" title="Hangout with Us">
   </a>
   <a href="mailto:se.josephmartin@gmail.com">
-    <img src="https://img.shields.io/badge/let's%20talk-gmail-4d4f73?style=for-the-badge&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="Let's Talk">
+    <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
   </a>
 </section><br>
 
