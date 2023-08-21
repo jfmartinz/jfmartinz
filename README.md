@@ -10,11 +10,11 @@
   <a href="https://twitter.com/jfmartinz">
     <img src="https://img.shields.io/badge/Follow Me |-Twitter-4d4f73?style=plat&amp;logo=twitter&amp;logoColor=1d9bf0" alt="Twitter" title="Follow my Coding Journey">
   </a>
-  <a href="https://discord.gg/XexhRvKd">
-    <img src="https://img.shields.io/badge/Hangout with Us |-Discord-4d4f73?style=plat&amp;logo=discord&amp;logoColor=1d9bf0" alt="Discord" title="Hangout with Us">
-  </a>
   <a href="mailto:se.josephmartin@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
+  </a>
+  <a href="https://discord.gg/XexhRvKd">
+    <img src="https://img.shields.io/badge/Hangout with Us |-Discord-4d4f73?style=plat&amp;logo=discord&amp;logoColor=1d9bf0" alt="Discord" title="Hangout with Us">
   </a>
 </section><br>
 
