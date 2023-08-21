@@ -37,7 +37,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 *I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
 
-**Let's Connect!** 🙌
+*Hangout with us in* [*Discord*](https://discord.gg/XexhRvKd) 🤖
 
 > 🌐 Connect with  [**Me**](https://linkfree.io/jfmartinz) 
 </section>
