@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
   </a>
   <a href="https://discord.gg/XexhRvKd">
-    <img src="https://img.shields.io/badge/Hangout with Us |-Discord-4d4f73?style=plat&amp;logo=discord&amp;logoColor=1d9bf0" alt="Discord" title="Hangout with Us">
+    <img src="https://img.shields.io/badge/DevLounge |-Discord-4d4f73?style=plat&amp;logo=discord&amp;logoColor=1d9bf0" alt="Discord" title="Hangout with Us">
   </a>
 </section><br>
 
