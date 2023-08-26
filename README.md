@@ -13,7 +13,7 @@
   <a href="mailto:se.josephmartin@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
   </a>
-  <a href="https://discord.gg/XexhRvKd">
+  <a href="https://discord.gg/4hVUVucEvV">
     <img src="https://img.shields.io/badge/DevLounge |-Discord-4d4f73?style=plat&amp;logo=discord&amp;logoColor=1d9bf0" alt="Discord" title="Hangout with Us">
   </a>
 </section><br>
@@ -37,7 +37,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 *I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
 
-*Hangout with us in* [*Discord*](https://discord.gg/XexhRvKd) 🤖
+*Hangout with us in* [*Discord*](https://discord.gg/4hVUVucEvV) 🤖
 
 > 🌐 Connect with  [**Me**](https://linkfree.io/jfmartinz) 
 </section>
