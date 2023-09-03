@@ -22,10 +22,9 @@
 </section><br>
 
 
-- 🧑🏻‍💻 I am an Aspiring Full Stack Developer
-- 📚 I am a Self-Taught Developer
+- 🧑🏻‍💻 I am a Full-Stack Developer
 - 🎓 Currently, a Second-year student taking Computer Science 
-- 🌐 Open-source enthusiast   
+- 🌐 Open-source advocate   
 - 💻 Currently Learning HTML, CSS, & JavaScript
 </header>
 
