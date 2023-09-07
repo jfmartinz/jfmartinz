@@ -26,6 +26,7 @@
 - 🎓 Currently, a Second-year student taking Computer Science 
 - 🌐 Open-source advocate   
 - 💻 Currently Learning HTML, CSS, & JavaScript
+- 🎨 Familiarity with User Interface & User Experience
 </header>
 
 
