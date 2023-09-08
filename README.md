@@ -22,11 +22,11 @@
 </section><br>
 
 
-- 🧑🏻‍💻 I am a Full-Stack Developer
+- 🧑🏻‍💻 Full-Stack Developer in progress
 - 🎓 Currently, a Second-year student taking Computer Science 
-- 🌐 Open-source advocate   
+- 💡 Open-source Advocate   
 - 💻 Currently Learning HTML, CSS, & JavaScript
-- 🎨 Familiarity with User Interface & User Experience
+- 🎨 I have familiarity with User Interface & User Experience
 </header>
 
 
