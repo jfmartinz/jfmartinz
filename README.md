@@ -10,14 +10,8 @@
   <a href="https://twitter.com/jfmartinz" target="_blank">
     <img src="https://img.shields.io/badge/Follow Me |-Twitter-4d4f73?style=plat&amp;logo=twitter&amp;logoColor=1d9bf0" alt="Twitter" title="Follow my Coding Journey">
   </a>
-    <a href="https://www.facebook.com/profile.php?id=61550922350882" target="_blank">
-    <img src="https://img.shields.io/badge/Follow Me |-Facebook-4d4f73?style=plat&amp;logo=facebook&amp;logoColor=1d9bf0" alt="Facebook" title="Follow me on Facebook">
-  </a>
   <a href="mailto:se.josephmartin@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
-  </a>
-  <a href="https://discord.gg/4hVUVucEvV" target="_blank">
-    <img src="https://img.shields.io/badge/DevLounge |-Discord-4d4f73?style=plat&amp;logo=discord&amp;logoColor=1d9bf0" alt="Discord" title="Hangout with Us">
   </a>
 </section><br>
 
