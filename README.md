@@ -10,6 +10,9 @@
     <a href="https://www.linkedin.com/in/jfmartinz/" target="_blank">
     <img src="https://img.shields.io/badge/Let's Connect |-LinkedIn-4d4f73?style=plat&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn" title="Let's Connect!">
   </a>
+   <a href="https://discord.gg/nJPjjnebRH" target="_blank">
+    <img src="https://img.shields.io/badge/DevLounge |-Discord-4d4f73?style=plat&amp;logo=discord&amp;logoColor=1d9bf0" alt="Discord" title="Hangout with Us">
+  </a>
   <a href="mailto:se.josephmartin@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
   </a>
@@ -33,6 +36,8 @@
 Hello! 👋 I'm currently a second-year Computer Science student with a deep passion for web development. My ultimate goal is to become a skilled full stack developer, specializing in the MERN stack. To keep myself guided, I have created a personal roadmap that serves as a guide for my journey. In addition, I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
 
 *I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
+
+*Hangout with us in* [*Discord*](https://discord.gg/nJPjjnebRH) 🤖
 
 > 🌐 Connect with  [**Me**](https://linkfree.io/jfmartinz) 
 </section>
@@ -60,6 +65,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 </a>
 
 </section>
+
 
 <br>
 
