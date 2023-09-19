@@ -60,7 +60,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 <!-- Visit https://committers.top/ to learn more about this -->
 
 <a href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
-          <img src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USERS IN PH&labelColor=4d4f73&message=➦&color=38bdae&style=lat-Square&logo=github&logoColor=fffff"/>
+          <img src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USER IN PH&labelColor=4d4f73&message=➦&color=38bdae&style=lat-Square&logo=github&logoColor=fffff"/>
 </a>
 
 </section>
