@@ -21,8 +21,8 @@
 
 - 🧑🏻‍💻 Full-Stack Developer in progress
 - 🎓 Currently, a Second-year student taking Computer Science 
-- 💡 Open-source Advocate   
-- 💻 Currently Learning HTML, CSS, & JavaScript
+- 💡 Open-Source Advocate   
+- 💻 I am Currently learning [TailwindCSS](https://tailwindcss.com/)
 - 🎨 I have familiarity with User Interface & User Experience
 </header>
 
@@ -33,7 +33,7 @@
 
 ## About me 😎
 
-Hello! 👋 I'm currently a second-year Computer Science student with a deep passion for web development. My ultimate goal is to become a skilled full stack developer, specializing in the MERN stack. To keep myself guided, I have created a personal roadmap that serves as a guide for my journey. In addition, I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
+Hello! 👋 I'm currently a second-year Computer Science student with a deep passion for web development. My ultimate goal is to become a skilled full stack developer, specializing in the MERN stack. To keep myself guided, I have created a personal roadmap that serves as a guide for my journey. In addition, I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills. When I'm not coding, I enjoy listening to music, and I consistently engage in reading and writing to enhance both my thinking abilities and my proficiency in English.
 
 *I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
 
@@ -45,12 +45,20 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 <section align="center">
 
-  <!--
-  ###### Technologies && GitHub Stats 
-  
+
+  <td>
   <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,react,html,css,tailwind,javascript,git,githubactions,md" />
-  </a><br><br> -->
+    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,react,html,css,tailwind,bootstrap,javascript" />
+  </a> 
+  </td>
+    </tr>
+  <td>
+    <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,netlify,vite,vercel" />
+  </a> 
+  </td>
+    </tr>
+<br><br>
 
 
 
