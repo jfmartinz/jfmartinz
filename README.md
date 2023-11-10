@@ -21,17 +21,17 @@
 <section align="left">
   
 ## About me 😎
-Hello! 👋
+<!-- Hello! 👋
 
-Passionate Front-End Developer actively seeking opportunities. I specialize in 𝙘𝙧𝙖𝙛𝙩𝙞𝙣𝙜 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙫𝙞𝙨𝙞𝙤𝙣𝙨 𝙩𝙤 𝙡𝙞𝙛𝙚 𝙗𝙮 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙗𝙚𝙖𝙪𝙩𝙞𝙛𝙪𝙡, 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚, 𝙖𝙣𝙙 𝙚𝙣𝙨𝙪𝙧𝙞𝙣𝙜 𝙖 𝙨𝙚𝙖𝙢𝙡𝙚𝙨𝙨 𝙪𝙨𝙚𝙧 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚. With a solid foundation in HTML, CSS, JavaScript,  Git & GitHub, and familiarity with UI & UX design, I am ready to collaborate and thrive in a dynamic team environment.
+Passionate 𝙁𝙧𝙤𝙣𝙩-𝙀𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 actively seeking opportunities. With a solid foundation in HTML, CSS, JavaScript,  Git & GitHub, and familiarity with UI & UX design, I am ready to collaborate and thrive in a dynamic team environment.
 
-Despite lacking professional experience in Front-end Development, my enthusiasm and dedication drive me to seek an internship where I can contribute value to a company and refine my skills through hands-on projects. I bring a solid foundation in essential technologies and an eagerness to learn alongside a talented team.
+Despite lacking professional experience in Front-end Development, my enthusiasm and dedication drive me to seek an internship where I can contribute value to a company and refine my skills through real-life projects. 
 
-Additionally, When I am not coding I enjoy writing and reading, listening to music, and playing chess. These pursuits not only provide stress relief but also enhance my critical thinking, problem-solving, and creative abilities, contributing to a well-rounded skill set.
+Additionally, When I am not coding I enjoy writing and reading, listening to music, and playing chess. These pursuits not only provide stress relief but also enhance my critical thinking, problem-solving, and creative abilities.
 
 Eager to make meaningful contributions and put my skills into a practice with real-life projects, I look forward to connecting with professionals in the field. 
 
-_**Let's create value together!**_
+𝙇𝙚𝙩'𝙨 𝙬𝙤𝙧𝙠 𝙩𝙤𝙜𝙚𝙩𝙝𝙚𝙧 𝙖𝙣𝙙 𝙗𝙧𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙞𝙙𝙚𝙖𝙨 𝙩𝙤 𝙡𝙞𝙛𝙚! -->
 
 <!-- *Hangout with us in* [*Discord*](https://discord.gg/nJPjjnebRH) 🤖 -->
 > 🌐 Connect with  [**Me**](https://www.biodrop.io/jfmartinz) 
