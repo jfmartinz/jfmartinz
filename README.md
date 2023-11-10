@@ -17,25 +17,22 @@
     <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
   </a>
 </section><br>
-
-
-- 🧑🏻‍💻 Full-Stack Developer in progress
-- 🎓 Currently, a Second-year student taking Computer Science 
-- 💡 Open-Source Advocate   
-- 💻 I am Currently learning [TailwindCSS](https://tailwindcss.com/)
-- 🎨 I have familiarity with User Interface & User Experience
-</header>
-
-
-  
+</header>  
 
 <section align="left">
 
 ## About me 😎
+Hello! 👋
 
-Hello! 👋 I'm currently a second-year Computer Science student with a deep passion for web development. My ultimate goal is to become a skilled full stack developer, specializing in the MERN stack. To keep myself guided, I have created a personal roadmap that serves as a guide for my journey. In addition, I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills. When I'm not coding, I enjoy listening to music, and I consistently engage in reading and writing to enhance both my thinking abilities and my proficiency in English.
+Passionate Front-End Developer actively seeking opportunities. I specialize in 𝙘𝙧𝙖𝙛𝙩𝙞𝙣𝙜 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙫𝙞𝙨𝙞𝙤𝙣𝙨 𝙩𝙤 𝙡𝙞𝙛𝙚 𝙗𝙮 𝙘𝙧𝙚𝙖𝙩𝙞𝙣𝙜 𝙗𝙚𝙖𝙪𝙩𝙞𝙛𝙪𝙡, 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚, 𝙖𝙣𝙙 𝙚𝙣𝙨𝙪𝙧𝙞𝙣𝙜 𝙖 𝙨𝙚𝙖𝙢𝙡𝙚𝙨𝙨 𝙪𝙨𝙚𝙧 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚. With a solid foundation in HTML, CSS, JavaScript,  Git & GitHub, and familiarity with UI & UX design, I am ready to collaborate and thrive in a dynamic team environment.
 
-*I'm excited to meet great people, learn new things, and explore different technologies for learning and growth.* 🚀💫
+Despite lacking professional experience in Front-end Development, my enthusiasm and dedication drive me to seek an internship where I can contribute value to a company and refine my skills through hands-on projects. I bring a solid foundation in essential technologies and an eagerness to learn alongside a talented team.
+
+Additionally, When I am not coding I enjoy writing and reading, listening to music, and playing chess. These pursuits not only provide stress relief but also enhance my critical thinking, problem-solving, and creative abilities, contributing to a well-rounded skill set.
+
+Eager to make meaningful contributions and put my skills into a practice with real-life projects, I look forward to connecting with professionals in the field. 
+
+_**Let's create value together!**_
 
 <!-- *Hangout with us in* [*Discord*](https://discord.gg/nJPjjnebRH) 🤖 -->
 > 🌐 Connect with  [**Me**](https://www.biodrop.io/jfmartinz) 
@@ -45,7 +42,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 <section align="center">
 
-
+<!--
   <td>
   <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
     <img src="https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,react,html,css,tailwind,bootstrap,javascript" />
@@ -58,7 +55,7 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
   </a> 
   </td>
     </tr>
-<br><br>
+<br><br>-->
 
 
 
@@ -71,9 +68,11 @@ Hello! 👋 I'm currently a second-year Computer Science student with a deep pas
 
 <br>
 
+<!--
+
 [![An image of @jfmartinz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jfmartinz)](https://holopin.io/@jfmartinz)
 
 <a href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
           <img src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USER IN PH&labelColor=4d4f73&message=➦&color=38bdae&style=lat-Square&logo=github&logoColor=fffff"/>
 </a>
-</section>
+</section>-->
