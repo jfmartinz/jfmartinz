@@ -16,11 +16,10 @@
   <a href="mailto:se.josephmartin@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
   </a>
-</section><br>
+</section>
 </header>  
-
 <section align="left">
-
+  
 ## About me 😎
 Hello! 👋
 
