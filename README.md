@@ -5,7 +5,7 @@
     
 <section>
   <a href="https://twitter.com/jfmartinz" target="_blank">
-    <img src="https://img.shields.io/badge/Follow My Coding Journey |-Twitter-4d4f73?style=plat&amp;logo=twitter&amp;logoColor=1d9bf0" alt="Twitter" title="Follow my Coding Journey">
+    <img src="https://img.shields.io/badge/Let's Connect |-Twitter-4d4f73?style=plat&amp;logo=twitter&amp;logoColor=1d9bf0" alt="Twitter" title="Follow my Coding Journey">
   </a>
     <a href="https://www.linkedin.com/in/jfmartinz/" target="_blank">
     <img src="https://img.shields.io/badge/Let's Connect |-LinkedIn-4d4f73?style=plat&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn" title="Let's Connect!">
