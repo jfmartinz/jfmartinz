@@ -1,7 +1,7 @@
 
 <header align="left">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=32&duration=4000&pause=800&color=FDFDFD&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=F7F7F7&random=false&width=535&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;A+Front-End+Developer+%F0%9F%92%BB%F0%9F%91%BB;Let's+Connect!+%F0%9F%98%83%F0%9F%9A%80)](https://git.io/typing-svg)
     
 <section>
   <a href="https://twitter.com/jfmartinz" target="_blank">
