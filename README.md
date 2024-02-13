@@ -18,17 +18,11 @@
 <section align="left">
   
 ## About me 😎
-<!-- Hello! 👋
+ Hello! 👋
 
-Passionate 𝙁𝙧𝙤𝙣𝙩-𝙀𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 actively seeking opportunities. With a solid foundation in HTML, CSS, JavaScript,  Git & GitHub, and familiarity with UI & UX design, I am ready to collaborate and thrive in a dynamic team environment.
+I’m Joseph Martin.  A  **Front-End Developer**,  I'm passionate about creating _visually stunning_ interface and _intuitive experiences_, bringing your ideas into reality using _HTML, CSS, JavaScript, and VueJs_. Additionally, I have familiarity in _UI & UX design, PHP, Laravel and mySQL_.
 
-Despite lacking professional experience in Front-end Development, my enthusiasm and dedication drive me to seek an internship where I can contribute value to a company and refine my skills through real-life projects. 
-
-Additionally, When I am not coding I enjoy writing and reading, listening to music, and playing chess. These pursuits not only provide stress relief but also enhance my critical thinking, problem-solving, and creative abilities.
-
-Eager to make meaningful contributions and put my skills into a practice with real-life projects, I look forward to connecting with professionals in the field. 
-
-𝙇𝙚𝙩'𝙨 𝙬𝙤𝙧𝙠 𝙩𝙤𝙜𝙚𝙩𝙝𝙚𝙧 𝙖𝙣𝙙 𝙗𝙧𝙞𝙣𝙜 𝙮𝙤𝙪𝙧 𝙞𝙙𝙚𝙖𝙨 𝙩𝙤 𝙡𝙞𝙛𝙚! -->
+Eager to make meaningful contributions and put my skills into a practice with real-life projects, I look forward to connecting & working with professionals in the field. 
 
 > 🌐 Connect with  [**Me**](https://www.biodrop.io/jfmartinz) 
 </section>
