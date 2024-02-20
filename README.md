@@ -11,11 +11,11 @@
     <a href="https://www.linkedin.com/in/jfmartinz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
-  <a href="mailto:se.josephmartin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
-  </a>
   <a href="https://twitter.com/jfmartinz" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
+  </a>
+  <a href="mailto:se.josephmartin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="mailto:se.josephmartin@gmail.com">
   </a>
 </section>
 </header>  
