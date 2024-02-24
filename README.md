@@ -22,6 +22,8 @@
 <section align="left">
 <br>
  Hello! 👋
+ <br>
+ <br>
 
 I’m Joseph Martin.  A  **Front-End Developer**,  I'm passionate about creating _visually stunning_ interface and _intuitive experiences_, bringing your ideas into reality using _HTML, CSS, JavaScript, and VueJs_. Additionally, I have familiarity in _UI & UX design, PHP, Laravel and mySQL_.
 
@@ -45,21 +47,27 @@ I really enjoy collaborating with others and contributing to open-source project
 
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> |
-| --- | --- | 
+ <details>
+  <summary>
+    GitHub Stats
+     </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+
 
 <div align="center">
 <a  href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
           <img src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USER IN PH&labelColor=4d4f73&message=➦&color=38bdae&style=lat-Square&logo=github&logoColor=fffff"/>
 </a>
   </div>
+</details>
 <!-- Visit https://committers.top/ to learn more about this -->
 
-
-
-<br>
-
-
-
+<details>
+  <summary>
+    Holopin badges
+  </summary>
+  
 [![An image of @jfmartinz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jfmartinz)](https://holopin.io/@jfmartinz)
+
+</details>
 </section>
