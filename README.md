@@ -1,7 +1,7 @@
 
 <header align="left">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=F7F7F7&random=false&width=535&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;A+Front-End+Developer+%F0%9F%92%BB%F0%9F%91%BB;Let's+Connect!+%F0%9F%98%83%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=F7F7F7&random=false&width=535&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Front-End+VueJS+Developer+%F0%9F%92%BB%F0%9F%91%BB;Let's+Connect!+%F0%9F%98%83%F0%9F%9A%80)](https://git.io/typing-svg)
 
     
 <section>
