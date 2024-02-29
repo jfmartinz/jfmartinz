@@ -76,7 +76,7 @@ I really enjoy collaborating with others and contributing to open-source project
   WakaTime Stats
   </summary>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:jfmartinz-->
+<!--END_SECTION:jfmartinz-->
 </details>
 </section>
