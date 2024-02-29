@@ -70,4 +70,13 @@ I really enjoy collaborating with others and contributing to open-source project
 [![An image of @jfmartinz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jfmartinz)](https://holopin.io/@jfmartinz)
 
 </details>
+
+<details>
+  <summary>
+  WakaTime Stats
+  </summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
 </section>
