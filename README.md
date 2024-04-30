@@ -27,7 +27,7 @@
 
 I’m Joseph Martin.  A  **Front-End Developer**,  I'm passionate about creating _visually stunning_ interface and _intuitive experiences_, bringing your ideas into life using _HTML, CSS, JavaScript, and VueJs_. Additionally, I have familiarity in _UI & UX design, PHP, Laravel and mySQL_.
 
-I really enjoy collaborating with others and contributing to open-source projects. Additionally, I love listening to music, playing games, and reading a book.
+I really enjoy contributing to open-source projects, listening to music, playing games, and reading a book.
 <br>
 > 🌐 Connect with  [**Me**](https://www.biodrop.io/jfmartinz) 
 </section>
