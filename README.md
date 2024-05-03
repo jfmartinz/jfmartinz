@@ -29,14 +29,9 @@
  <br>
  <br>
 
+I am Front-End Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, JavaScript, and VueJS. I have familiarity with additional tools and technologies like Git & GitHub, TailwindCSS, Pinia, TypeScript, PHP, Laravel, MySQL, and UI/UX design principles.
 
-
-
-I am Front-End Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, TailwindCSS, JavaScript, VueJS, Git, and GitHub. 
-
-I have familiarity with additional tools and technologies like Pinia, TypeScript, PHP, Laravel, MySQL, and UI/UX design principles.
-
-Eager to collaborate with professionals, seeking an internship opportunity to apply and further develop my skills in a real-world project.
+When I am not coding, I like to spend my time on listening to music, reading, and spending time alone.
 
 <br>
 > 🌐 Connect with  [**Me**](https://www.biodrop.io/jfmartinz) 
