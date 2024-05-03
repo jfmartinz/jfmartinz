@@ -21,28 +21,53 @@
 </header>  
 <section align="left">
 <br>
+
+  > Front-End Developer in Progress...
+
+  <!-- 
  Hello! 👋
  <br>
  <br>
 
-I’m Joseph Martin.  A  **Front-End Developer**,  I'm passionate about creating _visually stunning_ interface and _intuitive experiences_, bringing your ideas into life using _HTML, CSS, JavaScript, and VueJs_. Additionally, I have familiarity in _UI & UX design, PHP, Laravel and mySQL_.
 
-I really enjoy contributing to open-source projects, listening to music, playing games, and reading a book.
+
+
+I am Front-End Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, TailwindCSS, JavaScript, VueJS, Git, and GitHub. 
+
+I have familiarity with additional tools and technologies like Pinia, TypeScript, PHP, Laravel, MySQL, and UI/UX design principles.
+
+Eager to collaborate with professionals, seeking an internship opportunity to apply and further develop my skills in a real-world project.
+
 <br>
 > 🌐 Connect with  [**Me**](https://www.biodrop.io/jfmartinz) 
-</section>
+</section>-->
 
 ---
 
-<!--<section align="center">
+<section>
+  
+<!-- <table>
+
+  <tr>
+      <th>
+     Front-End
+   </th>
+    <td>
+      <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,vuejs,pinia,vitest,git,github,figma" />
+      </a> 
+    </td>
+    <th>Back-End</th>
+    <td>
+      <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
+        <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+      </a> 
+    </td>
+  </tr> 
+</table>
 
 
-  <td>
-  <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,vuejs,nuxtjs,vuex,git,github,figma" />
-  </a> 
-  </td>
-<br><br>
+  <br><br>
 -->
 
 
