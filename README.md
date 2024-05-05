@@ -31,7 +31,7 @@
 
 I am Front-End Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, JavaScript, and VueJS. I have familiarity with additional tools and technologies like Git & GitHub, TailwindCSS, Pinia, TypeScript, PHP, Laravel, MySQL, and UI/UX design principles.
 
-When I am not coding, I like to spend my time on listening to music, reading, and spending time alone.
+When I am not coding, I like to spend my time on listening to music, reading, and seeking solitude.
 
 <br>
 > 🌐 Connect with  [**Me**](https://www.biodrop.io/jfmartinz) 
