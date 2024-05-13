@@ -7,7 +7,7 @@
 
 <section>
   <a href="#">
-    <img src="https://img.shields.io/badge/my%20portfolio-Portfolio-4d4f73?style=for-the-badge&amp;logo=&amp;logoColor=2677c8" alt="Portfolio">
+    <img src="https://img.shields.io/badge/my%20portfolio-Portfolio-4d4f73?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=FFFFFF" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jfmartinz/">
     <img src="https://img.shields.io/badge/let's%20connect-LinkedIn-4d4f73?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn">
