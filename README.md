@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/my%20portfolio-Portfolio-4d4f73?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=FFFFFF" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jfmartinz/">
-    <img src="https://img.shields.io/badge/let's%20connect-LinkedIn-4d4f73?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/jfmartinz-LinkedIn-4d4f73?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/jfmartinz">
-    <img src="https://img.shields.io/badge/follow%20Me-𝕏-4d4f73?style=for-the-badge&amp;logo=x&amp;logoColor=000000" alt="𝕏">
+    <img src="https://img.shields.io/badge/jfmartinz-𝕏-4d4f73?style=for-the-badge&amp;logo=x&amp;logoColor=000000" alt="𝕏">
   </a>
   <a href="mailto:se.josephmartin@gmail.com">
     <img src="https://img.shields.io/badge/let's%20talk-gmail-4d4f73?style=for-the-badge&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail">
