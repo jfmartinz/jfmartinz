@@ -31,7 +31,9 @@
  <br>
  <br>
 
-I am Front-End Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, JavaScript, and VueJS. I have familiarity with additional tools and technologies like Git & GitHub, TailwindCSS, Pinia, TypeScript, PHP, Laravel, MySQL, and UI/UX design principles.
+Hello! 👋🏻
+
+I am Front-End VueJS Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, JavaScript, and VueJS. I also have familiarity with additional tools and technologies like Git & GitHub, Pinia, TypeScript, PHP, Firebase, MySQL, and UI/UX design.
 
 I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
 
