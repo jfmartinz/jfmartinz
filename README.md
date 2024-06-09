@@ -3,22 +3,23 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=F7F7F7&random=false&width=535&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Front-End+VueJS+Developer+%F0%9F%92%BB%F0%9F%91%BB;Let's+Connect!+%F0%9F%98%83%F0%9F%9A%80)](https://git.io/typing-svg)
 
-    
-
-<section>
-  <a href="#">
-    <img src="https://img.shields.io/badge/my%20portfolio-Portfolio-4d4f73?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=FFFFFF" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/jfmartinz/">
-    <img src="https://img.shields.io/badge/jfmartinz-LinkedIn-4d4f73?style=for-the-badge&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/jfmartinz">
-    <img src="https://img.shields.io/badge/jfmartinz-𝕏-4d4f73?style=for-the-badge&amp;logo=x&amp;logoColor=000000" alt="𝕏">
-  </a>
-  <a href="mailto:se.josephmartin@gmail.com">
-    <img src="https://img.shields.io/badge/let's%20talk-gmail-4d4f73?style=for-the-badge&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail">
-  </a>
-<br>
+<table>
+  <tr>
+    <th>
+      <a href="https://www.linkedin.com/in/jfmartinz/" />  My Portfolio  
+    </th> 
+    <th>
+      <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
+    </th>
+         <th>
+      <a href="https://twitter.com/jfmartinz" />   𝕏 (Twitter)
+    </th>
+         <th>
+      <a href="mailto:se.josephmartin@gmail.com" />   Email Me
+    </th>
+  </tr>
+  
+</table>
 </section>
 </header>  
 <section align="left">
@@ -33,7 +34,7 @@
 
 Hello! 👋🏻
 
-I am Front-End VueJS Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, JavaScript, and VueJS. I also have familiarity with additional tools and technologies like Git & GitHub, Pinia, TypeScript, PHP, Firebase, MySQL, and UI/UX design.
+I am Front-End VueJS Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, JavaScript, and VueJS. I also have familiarity with additional tools and technologies like Git & GitHub, Tailwind, Pinia, TypeScript, PHP, Firebase, MySQL, and UI/UX design.
 
 I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
 
@@ -45,6 +46,11 @@ When I am not coding, I like to spend my time on listening to music, reading, an
 </section>-->
 
 ---
+
+
+
+
+
 
 <section>
   
