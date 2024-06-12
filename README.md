@@ -38,7 +38,7 @@ I am Front-End VueJS Developer passionate about building user-friendly and intui
 
 I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
 
-When I am not coding, I like to spend my time on listening to music, reading, and seeking solitude.
+When I am not coding, I like to spend my time on listening to music, reading, and solitude.
 
 
 <br>
