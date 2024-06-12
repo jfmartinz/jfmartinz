@@ -6,7 +6,7 @@
 <table>
   <tr>
     <th>
-      <a href="https://www.linkedin.com/in/jfmartinz/" />  My Portfolio  
+      <a href="https://jfmartinz-dev.vercel.app/" />  My Portfolio  
     </th> 
     <th>
       <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
@@ -42,7 +42,7 @@ When I am not coding, I like to spend my time on listening to music, reading, an
 
 
 <br>
-> 🌐 Connect with  [**Me**](https://www.biodrop.io/jfmartinz) 
+> 🌐 Connect with  [**Me**](https://linktr.ee/jfmartinz) 
 </section>-->
 
 ---
