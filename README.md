@@ -32,12 +32,14 @@
  <br>
  <br>
 
-Hello! 👋🏻
+Hello! 👋🏻 
+    
+I am Joseph Martin, currently an undergraduate Computer Science student at the University of Nueva Caceres.
+My interest lies in Front-End Development, and I have a solid foundation in HTML, CSS, JavaScript, and VueJS.
+Additionally, I am familiar with tools and technologies such as Git & GitHub, Tailwind, Firebase, Pinia,  TypeScript, PHP, MySQL, and UI/UX design.
 
-I am Front-End VueJS Developer passionate about building user-friendly and intuitive experiences with HTML, CSS, JavaScript, and VueJS. I also have familiarity with additional tools and technologies like Git & GitHub, Tailwind, Pinia, TypeScript, PHP, Firebase, MySQL, and UI/UX design.
-
-I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
-
+I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers  to stay updated in the field and further expand my knowledge and skills.
+    
 When I am not coding, I like to spend my time on listening to music, reading, and solitude.
 
 
