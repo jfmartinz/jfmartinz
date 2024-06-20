@@ -79,31 +79,22 @@ When I am not coding, I like to spend my time on listening to music, reading, an
 
   <br><br>
 -->
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
 
-
-
- <details>
-  <summary>
-    GitHub Stats
-     </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
-
-
-
-</details>
-<!-- Visit https://committers.top/ to learn more about this -->
-
-<details>
-  <summary>
-    Holopin badges
-  </summary>
-  
-[![An image of @jfmartinz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jfmartinz)](https://holopin.io/@jfmartinz)
-
-</details>
+  </td>
+  <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+  </td>
+</tr>
+</table>
 </section>
+
 <br>
-<div align="center">
+<!-- Visit https://committers.top/ to learn more about this -->
+<div align="left">
 <a  href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
       Most Active GitHub User in PH
 </a>
