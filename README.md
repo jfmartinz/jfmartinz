@@ -31,7 +31,7 @@ Hello! 👋🏻
 I am Joseph Martin, currently an undergraduate Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/).
 My interest lies in front-end development, and I am currently learning Vue.js. While in college, I like to participate in
 and contribute to open source and [hackathons](https://mlh.io/) to gain insights and knowledge from the community and developers. 
-Which help me to stay updated on the fields, make connections or friends, and build my skills while having fun.
+This helps me stay updated in the field, make connections or friends, and build my skills while having fun.
 
 When I am not coding, I like to spend my time on listening to music, reading, and solitude.
 
