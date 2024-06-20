@@ -89,11 +89,7 @@ When I am not coding, I like to spend my time on listening to music, reading, an
 <img src="https://github-readme-stats.vercel.app/api?username=jfmartinz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jfmartinz&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
 
 
-<div align="left">
-<a  href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
-          <img src="https://img.shields.io/static/v1?label=MOST ACTIVE GITHUB USER IN PH&labelColor=4d4f73&message=➦&color=38bdae&style=lat-Square&logo=github&logoColor=fffff"/>
-</a>
-  </div>
+
 </details>
 <!-- Visit https://committers.top/ to learn more about this -->
 
@@ -106,3 +102,9 @@ When I am not coding, I like to spend my time on listening to music, reading, an
 
 </details>
 </section>
+<br>
+<div align="center">
+<a  href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
+      Most Active GitHub User in PH
+</a>
+  </div>
