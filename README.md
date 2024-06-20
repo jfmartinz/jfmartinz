@@ -22,9 +22,11 @@
 </table>
 </section>
 </header>  
-<section align="left">
-<br>
+<section>
+
 Hello! 👋🏻 
+
+
     
 I am Joseph Martin, currently an undergraduate Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/).
 My interest lies in front-end development, and I am currently learning Vue.js. While in college, I like to participate in
