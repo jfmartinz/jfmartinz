@@ -31,8 +31,8 @@ I am Joseph Martin, currently an undergraduate Computer Science student at the [
 My interest lies in front-end development, and I am currently learning Vue.js.
 
 I believe that doing other stuffs outside of college is crucial,
-that's why in my free time, I am actively participate in and contribute to OPEN-SOURCE and [HACKATHONS](https://mlh.io/) to gain insights and knowledge from the community and developers.
-This helps me stay updated in the field, build my online presence, make connections or friends, and build my skills while having fun.
+that's why in my free time, I am actively participate in and contribute to OPEN-SOURCE and [HACKATHONS](https://mlh.io/).
+This helps me stay updated in the field, build my online presence, make connections or friends, and build my skills and knowledge while having fun.
 
 When I am not coding, I like to spend my time on listening to music, reading, and solitude.
 
