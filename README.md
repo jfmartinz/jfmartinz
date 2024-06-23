@@ -26,12 +26,11 @@
   
 Hello! 👋🏻
 
-I am Joseph Martin, currently an undergraduate Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/). 
+I am Joseph Martin, currently an undergraduate Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/).
 My interest lies in front-end development.
 
-I believe that doing other stuffs outside of college is crucial, that's why in my free time, I actively participate in
-and contribute to OPEN-SOURCE and [HACKATHONS](https://mlh.io/). This helps me stay updated in the field, build my online presence, make friends,
-and build my skills and knowledge while having fun.
+I actively participate in and contribute to OPEN-SOURCE and [HACKATHONS](https://mlh.io/). This helps me stay updated in the field, 
+build my online presence, make friends, and build my skills and knowledge while having fun.
 
 If you're interested on Open-Source, Hackathons, or in Web, feel free to reach out or connect with me.
 
