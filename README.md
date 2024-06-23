@@ -41,35 +41,12 @@ If you're interested on Open-Source, Hackathons, or in Web, feel free to reach o
 
 ---
 
-
-
-
-
-<section>
-  
-<!-- <table>
-
-  <tr>
-      <th>
-     Front-End
-   </th>
-    <td>
-      <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,vuejs,pinia,vitest,git,github,figma" />
+<section align="center">
+  <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,vuejs,pinia,firebase,vitest,figma" />
       </a> 
-    </td>
-    <th>Back-End</th>
-    <td>
-      <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-        <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-      </a> 
-    </td>
-  </tr> 
-</table>
-
-
-  <br><br>
--->
+</section>
+  <br>
 <table>
 <tr>
   <td>
