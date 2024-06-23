@@ -32,7 +32,7 @@ My interest lies in front-end development.
 I actively participate in and contribute to OPEN-SOURCE and [HACKATHONS](https://mlh.io/). This helps me stay updated in the field, 
 build my online presence, make friends, and build my skills and knowledge while having fun.
 
-If you're interested on Open-Source, Hackathons, or in Web, feel free to reach out or connect with me.
+If you're interested in Open-Source, Hackathons, or in Web, feel free to reach out or connect with me.
 
 <br>
   
