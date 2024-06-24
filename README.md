@@ -6,7 +6,7 @@
 <table>
   <tr>
     <th>
-      <a href="https://jfmartinz-dev.vercel.app/" />  My Portfolio  
+      <a href="https://www.jfmartinz.dev/" />  My Portfolio  
     </th> 
     <th>
       <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
