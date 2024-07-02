@@ -24,6 +24,7 @@
 </header>  
 <section>  
   
+<br>
 Hello! 👋🏻
 
 I am Joseph Martin, currently an undergraduate Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/).
@@ -32,19 +33,24 @@ My interest lies in front-end development.
 I actively participate in and contribute to OPEN-SOURCE and [HACKATHONS](https://mlh.io/). This helps me stay updated in the field, 
 build my online presence, make friends, and build my skills and knowledge while having fun.
 
+
+
+> 🌐 Connect with  [**Me**](https://linktr.ee/jfmartinz)
 <br>
-  
-> 🌐 Connect with  [**Me**](https://linktr.ee/jfmartinz) 
+  <section>
+    <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
+          <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,vuejs,pinia,firebase,vitest,figma" />
+    </a> 
+  </section>
 </section>
+
 
 ---
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<section align="center">
-  <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,vuejs,pinia,firebase,vitest,figma" />
-      </a> 
-</section>
-  <br>
+
 <table>
 <tr>
   <td>
@@ -60,7 +66,7 @@ build my online presence, make friends, and build my skills and knowledge while 
 
 <br>
 <!-- Visit https://committers.top/ to learn more about this -->
-<div align="left">
+<div align="center">
 <a  href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
       Most Active GitHub User in PH
 </a>
