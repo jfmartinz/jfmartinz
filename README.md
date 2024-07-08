@@ -48,6 +48,8 @@ build my online presence, make friends, and build my skills and knowledge while 
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [a](https://medium.com/@jfmartinz/a-e7adabaa3718?source=rss-4493eed172d8------2)
+- [a](https://medium.com/@jfmartinz/a-e7adabaa3718?source=rss-4493eed172d8------2)
 <!-- BLOG-POST-LIST:END -->
 
 
