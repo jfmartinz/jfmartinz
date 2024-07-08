@@ -53,6 +53,8 @@ build my online presence, make friends, and build my skills and knowledge while 
 <!-- BLOG-POST-LIST:END -->
 
 
+<br>
+
 <table>
 <tr>
   <td>
