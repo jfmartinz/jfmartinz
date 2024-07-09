@@ -50,7 +50,11 @@ build my online presence, make friends, and build my skills and knowledge while 
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Free Terabox Video Downloader HD Quality Fast](https://dev.to/banmyaccount/free-terabox-video-downloader-hd-quality-fast-39gk)
+- [Free Terabox Video Downloader HD Quality Fast](https://dev.to/banmyaccount/free-terabox-video-downloader-hd-quality-fast-2fl9)
+- [The importance of semantic HTML for SEO and accessibility.](https://dev.to/elijah_mengo_927f1447d4c8/the-importance-of-semantic-html-for-seo-and-accessibility-197n)
+- [Code Transformation with Amazon Q](https://dev.to/aws-heroes/code-transformation-with-amazon-q-40df)
+- [What&#39;s the Difference Between Session-Based Authentication and JWTs?](https://dev.to/ruzny_ma/whats-the-difference-between-session-based-authentication-and-jwts-49gg)
 <!-- BLOG-POST-LIST:END -->
 
 
