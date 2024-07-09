@@ -50,11 +50,11 @@ build my online presence, make friends, and build my skills and knowledge while 
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [test](https://dev.to/jfmartinz/test-282)
 - [Best Practices for GBase 8a MPP Cluster Multi-Instance Management](https://dev.to/congcong/best-practices-for-gbase-8a-mpp-cluster-multi-instance-management-52id)
-- [Free Terabox Video Downloader HD Quality Fast](https://dev.to/banmyaccount/free-terabox-video-downloader-hd-quality-fast-39gk)
-- [Free Terabox Video Downloader HD Quality Fast](https://dev.to/banmyaccount/free-terabox-video-downloader-hd-quality-fast-2fl9)
-- [The importance of semantic HTML for SEO and accessibility.](https://dev.to/elijah_mengo_927f1447d4c8/the-importance-of-semantic-html-for-seo-and-accessibility-197n)
-- [Android Launch Modes](https://dev.to/dilip_chandar_58fce2b3b7b/android-launch-modes-2pjh)
+- [Explore These Exciting APIs to Make Your Application Stand Out](https://dev.to/explinks/explore-these-exciting-apis-to-make-your-application-stand-out-2h24)
+- [Basic Git and GitHub commands](https://dev.to/sxryadipta/basic-git-and-github-commands-9jk)
+- [Hellow Python World !!](https://dev.to/karthick_selvam/hellow-python-world--58hf)
 <!-- BLOG-POST-LIST:END -->
 
 
