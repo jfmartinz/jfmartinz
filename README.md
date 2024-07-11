@@ -50,7 +50,7 @@ build my online presence, make friends, and build my skills and knowledge while 
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [How &#39;Digital Minimalism&#39; Book by Cal Newport Helped Me as a Developer](https://dev.to/jfmartinz/how-digital-minimalism-book-by-cal-newport-helped-me-as-a-developer-4an5)
 <!-- BLOG-POST-LIST:END -->
 
 
