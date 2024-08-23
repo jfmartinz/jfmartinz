@@ -36,8 +36,6 @@ I actively participate in and contribute to OPEN-SOURCE and [HACKATHONS](https:/
 build my online presence, make friends, and build my skills and knowledge while having fun.
  -->
 
-
-> 🌐 Connect with  [**Me**](https://linktr.ee/jfmartinz)
 <br>
   <!--<section>
     <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
@@ -50,7 +48,6 @@ build my online presence, make friends, and build my skills and knowledge while 
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [test](https://dev.to/jfmartinz/test-3578)
 - [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
 <!-- BLOG-POST-LIST:END -->
 
