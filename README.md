@@ -28,21 +28,21 @@
 
 Hello! 👋🏻
 
-- studies computer science at [University of Nueva Caceres](https://unc.edu.ph/).
-- my interest lies in front-end but does full stack as well.
-- loves open-source. Participate in GSSOC, SWOC, and Hacktoberfest.
-- occasionally write blogs.
+- studies computer science at [University of Nueva Caceres](https://unc.edu.ph/)
+- my interest lies in front-end. full stack? yes
+- loves open-source. GSSOC, SWOC, and Hacktoberfest
+- occasionally write blogs
 
 
 <details>
-<summary>More about me -></summary>
+<summary>more about me -></summary>
   
--  inquisitive.
--  easily bored (embrace boredom).
+-  inquisitive
+-  easily bored (embrace boredom)
 -  loves to read (usually self-help books)
--  DSA 
+-  loves DSA
 -  solitude (mainly for instropection)
--  loves to try and explore new things. 
+-  loves to try and explore new things 
   
 </details>
 <br>
