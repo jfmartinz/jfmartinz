@@ -46,11 +46,11 @@ Hello! 👋🏻
   
 </details>
 <br>
-  <section align="center">
+<!--   <section align="center">
     <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
           <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,vuejs,pinia,nodejs,expressjs,mongo,vitest,figma" />
     </a> 
-  </section>
+  </section> -->
 </section>
 
 
