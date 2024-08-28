@@ -23,26 +23,35 @@
 </section>
 </header>  
 <section>  
+
+
+
+Hello! 👋🏻
+
+- studies computer science at [University of Nueva Caceres](https://unc.edu.ph/).
+- my interest lies into front-end but does full stack as well.
+- loves open-source. Participate on GSSOC, SWOC, and Hacktoberfest.
+- occasionally write blogs.
+
+
+<details>
+<summary>More about me -></summary>
   
+-  inquisitive.
+-  easily bored (embrace boredom).
+-  loves to read (usually self-help books)
+-  DSA 
+-  solitude (mainly for instropection)
+-  loves to try and explore new things. 
+  
+</details>
 <br>
-
-
-<!-- Hello! 👋🏻
-
-I am Joseph Martin, currently an undergraduate Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/).
-My interest lies in front-end development.
-
-I actively participate in and contribute to OPEN-SOURCE and [HACKATHONS](https://mlh.io/). This helps me stay updated in the field, 
-build my online presence, make friends, and build my skills and knowledge while having fun.
- -->
-
-<br>
-  <!--<section>
+  <section align="center">
     <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-          <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,vuejs,pinia,firebase,vitest,figma" />
+          <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwindcss,vuejs,pinia,nodejs,expressjs,mongo,vitest,figma" />
     </a> 
   </section>
-</section>-->
+</section>
 
 
 ---
