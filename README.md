@@ -29,8 +29,8 @@
 Hello! 👋🏻
 
 - studies computer science at [University of Nueva Caceres](https://unc.edu.ph/).
-- my interest lies into front-end but does full stack as well.
-- loves open-source. Participate on GSSOC, SWOC, and Hacktoberfest.
+- my interest lies in front-end but does full stack as well.
+- loves open-source. Participate in GSSOC, SWOC, and Hacktoberfest.
 - occasionally write blogs.
 
 
