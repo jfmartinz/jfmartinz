@@ -24,27 +24,8 @@
 </header>  
 <section>  
 
+# Hey!
 
-
-Hello! 👋🏻
-
-- studies computer science at [University of Nueva Caceres](https://unc.edu.ph/)
-- my interest lies in front-end. full stack? yes
-- loves open-source. GSSOC, SWOC, and Hacktoberfest
-- occasionally write blogs
-
-
-<details>
-<summary>more about me -></summary>
-  
--  inquisitive
--  easily bored (embrace boredom)
--  loves to read (usually self-help books)
--  loves DSA
--  solitude (mainly for instropection)
--  loves to try and explore new things 
-  
-</details>
 <br>
 <!--   <section align="center">
     <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
