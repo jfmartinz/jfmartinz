@@ -7,7 +7,7 @@
 - studies cs at [university of nueva caceres](https://unc.edu.ph/)
 - vuejs dev
 - loves open source. gssoc, swoc, and hacktoberfest
-- occassionaly write blogs
+- occassionaly write blogs. read my first [blog](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
   
 checkout my <a href="https://www.jfmartinz.dev/"> portfolio  </a>
 
