@@ -28,6 +28,8 @@ socials:<br>
 - [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
 <!-- BLOG-POST-LIST:END -->
 <br>
+
+<!--
 <table>
 <tr>
   <td>
@@ -39,11 +41,12 @@ socials:<br>
   </td>
 </tr>
 </table>
+ -->
 </section>
 
 <!-- Visit https://committers.top/ to learn more about this -->
 <div align="center">
  <a  href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
-      most active gitHub user in ph
+      most active github user in ph
 </a>
   </div>
