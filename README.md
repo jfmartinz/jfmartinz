@@ -22,14 +22,6 @@ socials:<br>
 <section>  
 </section>
 
-
----
-### blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
-<!-- BLOG-POST-LIST:END -->
-<br>
-
 <!--
 <table>
 <tr>
