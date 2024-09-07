@@ -37,9 +37,4 @@ socials:<br>
  -->
 </section>
 
-<!-- Visit https://committers.top/ to learn more about this -->
-<div align="center">
- <a  href="https://committers.top/philippines_public#jfmartinz" title="Visit https://committers.top/ to learn more about this">
-      most active github user in ph
-</a>
-  </div>
+
