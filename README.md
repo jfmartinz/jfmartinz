@@ -9,14 +9,14 @@
       <a href="https://www.jfmartinz.dev/" />  My Portfolio  
     </th> 
     <th>
-      <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
+  <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
+    </th> 
+     <th>
+        <a href="https://leetcode.com/u/jfmartinz/">LeetCode</a>
     </th>
-         <th>
+     <th>
       <a href="https://twitter.com/jfmartinz" />   𝕏 (Twitter)
-    </th>
-         <th>
-      <a href="mailto:se.josephmartin@gmail.com" />   Email Me
-    </th>
+    </th> 
   </tr>
   
 </table>
