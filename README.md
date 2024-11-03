@@ -47,6 +47,7 @@
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Hacktoberfest 2024 Journey—Reflection](https://dev.to/jfmartinz/my-hacktoberfest-2024-journey-reflection-1fol)
 - [Hacktoberfest 2024: Everything You Need to Know!](https://dev.to/jfmartinz/hacktoberfest-2024-everything-you-need-to-know-29h7)
 - [Beginner’s Guide to Open-Source. Start your Open-Source Journey 🚀](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
 <!-- BLOG-POST-LIST:END -->
