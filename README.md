@@ -38,7 +38,7 @@
 <br>
   <section>
     <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-          <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,php,mysql,figma" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,nodejs,expressjs,mongodb,figma" />
     </a> 
   </section>
 </section>
