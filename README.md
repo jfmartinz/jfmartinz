@@ -11,6 +11,10 @@
     <th>
   <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
     </th> 
+        <th>
+  <a href="https://dev.to/jfmartinz" /> 
+  Dev.to blog
+    </th> 
      <th>
         <a href="https://leetcode.com/u/jfmartinz/">LeetCode</a>
     </th>
