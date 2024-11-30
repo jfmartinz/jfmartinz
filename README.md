@@ -6,19 +6,24 @@
 <table>
   <tr>
     <th>
+      <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
       <a href="https://www.jfmartinz.dev/" />  My Portfolio  
     </th> 
     <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
   <a href="https://www.linkedin.com/in/jfmartinz/" />   LinkedIn
     </th> 
         <th>
   <a href="https://dev.to/jfmartinz" /> 
+  <img align="center" width="24" height="24" src="https://img.icons8.com/color/48/dev-community.png" alt="dev-community"/>  
   Dev.to blog
     </th> 
      <th>
+       <img align="center" width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
         <a href="https://leetcode.com/u/jfmartinz/">LeetCode</a>
     </th>
      <th>
+       <img width="24" height="24" align="center" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/twitterx--v1.png" alt="twitterx--v1"/>
       <a href="https://twitter.com/jfmartinz" />   𝕏 (Twitter)
     </th> 
   </tr>
