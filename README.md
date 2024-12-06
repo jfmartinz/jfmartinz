@@ -1,9 +1,11 @@
 
 <header align="left">
   
-![image](https://github.com/user-attachments/assets/ba21f8d6-8d9d-4503-bc79-c23ce70cb740)
+![Your paragraph text (4)](https://github.com/user-attachments/assets/3776d799-dfe3-4af2-b1fd-283a505a890d)
 
-<table align="right">
+
+
+<table align="left">
   <tr >
     <th>
       <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
@@ -33,8 +35,9 @@
 </header>  
 <section>  
 <br>
+<br>
 
-### About me 
+### About me ☕
 - Studies Computer Science at [University of Nueva Caceres](https://unc.edu.ph/).
 - Loves Open-Source. GSSOC, SWOC, and Hacktoberfest.
 - Occasionally write blogs. Read my first [blog](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
