@@ -40,7 +40,7 @@
 
 ### About me ☕
 - Studies Computer Science at [University of Nueva Caceres](https://unc.edu.ph/).
-- Loves Open-Source. GSSOC, SWOC, and Hacktoberfest.
+- Loves Open-Source. [GSSOC](https://gssoc.girlscript.tech/), [SWOC](https://www.socialwinterofcode.com/), and Hacktoberfest.
 - Occasionally write blogs. Read my first [blog](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
 - Hobbies: reading, calisthenics, and listening to music
 
