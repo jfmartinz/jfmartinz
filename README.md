@@ -42,17 +42,6 @@
 - Loves Open-Source. [GSSOC](https://gssoc.girlscript.tech/), [SWOC](https://www.socialwinterofcode.com/), and Hacktoberfest.
 - Occasionally write blogs. Read my first [blog](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
 - Hobbies: reading, calisthenics, and listening to music
-
-
-<br>
-<section>
-
-  <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-          <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,nodejs,expressjs,mongodb,figma" height="40" /> 
-  </a> 
-</table>
-  
-  </section>
 </section>
 
 
