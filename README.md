@@ -5,7 +5,6 @@
 
 
 
-
 <table align="left">
   <tr >
     <th>
@@ -45,12 +44,14 @@
 - Hobbies: reading, calisthenics, and listening to music
 
 
-
 <br>
-  <section>
-    <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-          <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,nodejs,expressjs,mongodb,figma" />
-    </a> 
+<section>
+
+  <a  href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
+          <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,nodejs,expressjs,mongodb,figma" height="40" /> 
+  </a> 
+</table>
+  
   </section>
 </section>
 
