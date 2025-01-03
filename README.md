@@ -70,9 +70,6 @@
 </table>
 </section>
 
-> <details>
->  <summary>@jfmartinz's Holopin badges</summary>
->  
->  [![@jfmartinz's Holopin badges](https://holopin.me/jfmartinz)](https://holopin.io/@jfmartinz)
-> </details>
+[@jfmartinz's Holopin badges](https://holopin.io/@jfmartinz)
+
 
