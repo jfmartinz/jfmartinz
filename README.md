@@ -37,7 +37,7 @@
 
 ### About me☕
 
-Hi, i'm <b>Joseph Martin</b>, a Fourth-year Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/). I enjoy contributing to open source and have participated in programs like GirlScript Summer of Code ([GSSOC](https://gssoc.girlscript.tech/)), [Hacktoberfest](https://hacktoberfest.com/), and Social Winter of Code ([SWOC](https://www.socialwinterofcode.com/)). 
+Hi, i'm <b>Joseph Martin</b>, a Fourth-year Computer Science student at the [University of Nueva Caceres](https://unc.edu.ph/). I enjoy contributing to open source and have participated in programs like GirlScript Summer of Code ([GSSOC](https://gssoc.girlscript.tech/)), [Hacktoberfest](https://hacktoberfest.com/), and Social Winter of Code ([SWOC](https://www.socialwinterofcode.com/)). Currently completing my internship at [SmartBridge](https://thesmartbridge.com/) as a Full Stack Developer intern 
 
 Passionate and eager to apply my technical knowledge to build impactful solutions, contribute to innovative projects, collaborate with others, and grow as a developer.
 
