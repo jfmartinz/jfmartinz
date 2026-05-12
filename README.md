@@ -98,7 +98,6 @@ Let's Connect 👋🏻
 
 <hr>
 
-### Stats 🗽
 <table>
 <tr>
   <td>
