@@ -63,7 +63,7 @@ Let's Connect 👋🏻
   <img src="https://img.shields.io/badge/TailwindCSS-00bcff?style=plastic&logo=tailwindcss&logoColor=white" />
 </td>
 <td valign="top" width="50%">
-  <h6>Backend 🧱</h6>
+  <h6>Backend Development 🧱</h6>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
        
@@ -75,6 +75,13 @@ Let's Connect 👋🏻
        <img src="https://img.shields.io/badge/Supabase-181818?style=plastic&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" />
+  </td>
+
+  <td valign="top" width="50%">
+    <h6>Others 🖤</h6>
+      <img src="https://img.shields.io/badge/Git-f74d27?style=plastic&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-005C84?style=plastic&logo=figma&logoColor=white" />
   </td>
   </tr>
 </table>
