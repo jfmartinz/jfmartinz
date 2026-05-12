@@ -35,6 +35,7 @@
 <br>
 
 ### About me ☕
+- Full Stack MERN Developer
 - Studies Computer Science at [University of Nueva Caceres](https://unc.edu.ph/).
 - Loves to contribute to Open-Source. [GSSOC](https://gssoc.girlscript.tech/), [SWOC](https://www.socialwinterofcode.com/), and Hacktoberfest.
 - Occasionally write blogs. Read my first [blog](https://dev.to/jfmartinz/beginners-guide-to-open-source-start-your-open-source-journey-470l)
@@ -67,6 +68,6 @@
 </table>
 </section>
 
-[@jfmartinz's Holopin badges](https://holopin.io/@jfmartinz)
+> [Check my Holopin badges](https://holopin.io/@jfmartinz)
 
 
